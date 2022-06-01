@@ -1,0 +1,127 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Another Module</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m60413</md:content-id>
+  <md:title>Another Module</md:title>
+  <md:abstract/>
+  <md:uuid>6acc71bd-1369-4f4a-9eae-23625d7b0917</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-895" class="learning-objectives"><title>Learning Objectives</title><list id="eip-id1165733175718"><item>Define matter and elements</item>
+<item>Describe the interrelationship between protons, neutrons, and electrons</item>
+<item>Explain the ways in which naturally occurring elements combine to create molecules, cells, tissues, organ systems, and organisms</item></list>
+</section><para id="eip-139">One technique we can use to measure the amount of heat involved in a chemical or physical change is called <term>calorimetry</term>. The simplest form of calorimetry is based on measuring the temperature change as heat is transferred into or out of a known quantity of water.</para><para id="eip-359">A <term>calorimeter</term> is a device used to measure the amount of heat involved in a chemical change. General chemistry students often use calorimeters constructed from two polystyrene cups like those used for coffee or other hot beverages <link target-id="eip-id1165715307727"/>. Because the cups are good insulators, they prevent the loss (or gain) of heat to (or from) the surroundings. When an exothermic reaction occurs in solution in such a calorimeter, the heat produced by the reaction is trapped in the solution and increases its temperature. When an endothermic reaction occurs, the heat required is absorbed from the thermal energy of the solution and decreases its temperature. The change in temperature can be used to calculate the amount of heat involved in either case.</para><para id="eip-852"><figure id="eip-id1165715307727"><title>Endothermic Charge</title><media id="endo" alt="yellow to orange">
+	   
+  <image mime-type="image/jpeg" src="../../media/endo.jpg"/>
+		 
+</media>
+<caption>An endothermic change converts the color form orange to yellow when the paper is warmed.</caption></figure></para><para id="delete_me">When we use polystyrene cups as a calorimeter, the amount of heat absorbed by the calorimeter is usually small enough that we can neglect it, and the amount of heat produced in the reaction, <m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub></m:mrow></m:math>, equals the amount of heat absorbed by the solution, <m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub></m:mrow></m:math>. Because energy can be neither created nor destroyed in a chemical reaction,</para><equation id="eip-404"><m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>+</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></equation><para id="eip-246">and</para><equation id="eip-827"><m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>=</m:mo><m:mo>-</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub></m:mrow></m:math></equation><para id="eip-659">confirming this scientific principle.</para><para id="eip-158">If the amount of heat absorbed by a calorimeter is too large to neglect or if we want more accurate results, then we must take into account the heat absorbed both by the solution and by the calorimeter.</para><para id="eip-621">Not all calorimeters trap the heat of a reaction in a solution of the products. If a reaction were run in the steel container of the calorimeter shown in <link target-id="eip-id1165715307727"/>, the heat of the reaction would be trapped in the container and in the water surrounding the container. Such calorimeters are used to measure the heats of reactions involving gases. A modification of such a calorimeter was used to measure the heat produced by a living person. A man lived for four days inside a small room surrounded by water.</para>
+<section id="eip-249"><title>This Section is for Nesting Testing</title><note id="eip-id1172503755080" class="astronomy-basics"><title>Astronomy Basics</title><para id="eip-id1172503936669">There are figures, images, and tables in this note. There are also index term tags: <term>astronomy</term>.
+
+<figure id="eip-id1172503122973"><title>A Note Figure</title><media id="eip-id1172499282132" alt="image"><image mime-type="mime/jpeg" src="../../media/astronomy-1c56.jpg" width="500"/></media>
+<caption>It has a caption.</caption></figure></para>
+<para id="eip-id1172501906830">Here is an image with no figure tag.<newline/>
+<media id="eip-id1172502660398" alt="image"><image mime-type="mime/jpeg" src="../../media/astronomy2-7087.jpg" width="700"/></media></para><table id="eip-883" summary="."><title>Note Table</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry>(1,1)</entry>
+    <entry>(1,2)</entry>
+    <entry>(1,3)</entry>
+  </row>
+  <row>
+    <entry>(2,1)</entry>
+    <entry>(2,2)</entry>
+    <entry>(2,3)</entry>
+  </row>
+  <row>
+    <entry>(3,1)</entry>
+    <entry>(3,2)</entry>
+    <entry>(3,3)</entry>
+  </row>
+</tbody>
+</tgroup><caption>It has a caption.</caption>
+</table><para id="eip-511">Some inline mathML: <m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>+</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>
+</para><para id="eip-801">Some display mathML: <equation id="eip-id1172503070709"><m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>+</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></equation> Here is a footnote.<footnote id="eip-id1172501792482">Footnotes should work in appendices.</footnote> Here is a <link url="http://openstaxcollege.org">non-shortlinked URL</link>.</para>
+<para id="eip-id1172500508199">Wikipedia has this to say about gamma-ray bursts: 
+<quote id="eip-id1172501475873">Gamma-ray bursts are very bright as observed from Earth despite their typically immense distances. An average long GRB has a bolometric flux comparable to a bright star of our galaxy despite a distance of billions of light years (compared to a few tens of light years for most visible stars). Most of this energy is released in gamma rays, although some GRBs have extremely luminous optical counterparts as well. GRB 080319B, for example, was accompanied by an optical counterpart that peaked at a visible magnitude of 5.8,[65] comparable to that of the dimmest naked-eye stars despite the burst's distance of 7.5 billion light years. This combination of brightness and distance implies an extremely energetic source. Assuming the gamma-ray explosion to be spherical, the energy output of GRB 080319B would be within a factor of two of the rest-mass energy of the Sun (the energy which would be released were the Sun to be converted entirely into radiation).</quote></para></note></section><section id="eip-640" class="summary"><title>Summary</title><para id="eip-205">
+The core threats to biodiversity are human population growth and unsustainable resource use. To date, the most significant
+causes of extinctions are habitat loss, introduction of exotic species, and overharvesting. Climate change is predicted to be a significant cause of extinctions in the coming century.
+</para>
+<para id="eip-id1165732296722">Habitat loss occurs through deforestation, damming of rivers, and other activities. Habitat loss occurs through deforestation, damming of rivers, and other activities other activities. Habitat loss occurs through deforestation, damming of rivers, and other activities other activities.</para></section>
+
+<section id="fs-id1165712227856" class="further-exploration"> <title>For Further Exploration</title>
+<para id="fs-id1165730835891">Aveni, A. Foundations of New World Cultural Astronomy: A Reader with Commentary, 2008, University Press of Colorado. An insightful collection of readings from a well-known expert on Archaeoastronomy in North, Central and South America.</para></section>
+
+<section id="fs-id1165719740058" class="group-activities"><title>Collaborative Group Activities</title><section id="eip-id1171962610279"><para id="fs-id1165730872126">Classify each of the following homogeneous materials as an element or a compound:
+<list id="fs-id1165731385994" list-type="enumerated" number-style="upper-alpha"><item>copper</item>
+<item>water</item>
+<item>nitrogen</item>
+<item>sulfur</item>
+<item>sucrose</item>
+<item>a substance composed of molecules each of which contains two iodine atoms</item>
+</list></para>
+</section><section id="eip-id1171962608892">
+<para id="eip-id1172499352260">This one has a picture:
+<list id="eip-id1172499711632" list-type="enumerated" number-style="upper-alpha"><item>copper</item>
+<item>water</item>
+<item>nitrogen</item>
+<item><media id="collated" alt="image"><image mime-type="mime/jpeg" src="../../media/astronomy2-7087.jpg" width="200"/></media></item>
+<item>sucrose</item>
+<item>a substance composed of molecules each of which contains two iodine atoms</item>
+</list></para></section></section><section id="fs-id1165717085172" class="review-questions"><title>Review Questions</title><exercise id="fs-id1165712272654"><problem id="fs-id1165714295274"><para id="fs-id1165719634061">
+Classify each of the following homogeneous materials as an element or a compound:
+<list id="fs-id1165704835337" list-type="enumerated" number-style="upper-alpha"><item>copper</item>
+<item>water</item>
+<item>nitrogen</item>
+<item>sulfur</item>
+<item>sucrose</item>
+<item>a substance composed of molecules each of which contains two iodine atom</item>
+</list>
+</para></problem><solution id="eip-id1172502773224"><para id="eip-id1172502634172">F</para></solution></exercise>
+
+<exercise id="eip-id1172503075611"><problem id="eip-id1172502642909"><para id="eip-id1172499711270">
+This list has a figure in it:
+<list id="eip-id1172499233689" list-type="enumerated" number-style="upper-alpha"><item>copper</item>
+<item>water</item>
+<item>nitrogen</item>
+<item><figure id="eip-id1172495447707"><media id="eip-id1172499365970" alt="image"><image mime-type="mime/jpeg" src="../../media/astronomy2-7087.jpg" width="700"/></media></figure></item>
+<item>sucrose</item>
+<item>a substance composed of molecules each of which contains two iodine atom</item>
+</list>
+</para></problem><solution id="eip-id1172499306328"><para id="eip-id1172502684540">F</para></solution></exercise>
+</section><section id="fs-id1165712104167" class="thought-questions"><title>Thought Questions</title><exercise id="fs-id1165730792544"><problem id="fs-id1165716989099"><para id="fs-id1165712041300">
+Why do we use an object’s mass, rather than its weight, to indicate the amount of matter it contains?
+</para></problem></exercise>
+
+<exercise id="eip-id1172494010382"><problem id="eip-id1172501957750"><para id="eip-id1172494163365">
+This exercise has a table in it.
+</para><table id="eip-265" summary=".">
+<tgroup cols="3"><tbody>
+  <row>
+    <entry>(1,1)</entry>
+    <entry>(1,2)</entry>
+    <entry>(1,3)</entry>
+  </row>
+  <row>
+    <entry>(2,1)</entry>
+    <entry>(2,2)</entry>
+    <entry>(2,3)</entry>
+  </row>
+  <row>
+    <entry>(3,1)</entry>
+    <entry>(3,2)</entry>
+    <entry>(3,3)</entry>
+  </row>
+</tbody>
+</tgroup>
+</table></problem></exercise></section><section id="fs-id1165704572703" class="figuring-for-yourself"><title>Figuring for Yourself</title><exercise id="fs-id1165730792116"><problem id="fs-id1165731244439">
+<para id="fs-id1165716936102">
+Explain the difference between heat _______ and specific heat of a substance.
+</para></problem><solution id="fs-id1165714321313"><para id="fs-id1165722177607">transfer</para></solution></exercise>
+
+<exercise id="eip-id1172493902038"><problem id="eip-id1172494142646">
+<para id="eip-id1172501897263">This problem has MathML in it. <m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>+</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></para></problem><solution id="eip-id1172501905307"><para id="eip-id1172502013680">This solution has MathML in it. <m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>+</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></para></solution></exercise></section></content>
+
+</document>

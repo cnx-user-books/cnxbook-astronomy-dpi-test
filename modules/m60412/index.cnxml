@@ -1,0 +1,156 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Astronomy test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m60412</md:content-id>
+  <md:title>Astronomy test</md:title>
+  <md:abstract/>
+  <md:uuid>b432dc9d-b3b1-475d-aee3-82d04b12525f</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-624" class="learning-objectives"><title>Learning Objectives</title><list id="eip-id1165718885482"><item>Define matter and elements</item>
+<item>Describe the interrelationship between protons, neutrons, and electrons</item>
+<item>Compare the ways in which electrons can be donated or shared between atoms</item>
+<item>Explain the ways in which naturally occurring elements combine to create molecules, cells, tissues, organ
+systems, and organisms</item>
+</list></section><para id="delete_me"><term>Thermal energy</term> (<link document="m12202">Measurement of Heat</link>) associated with the random motion of atoms and molecules. The greater the amount of thermal energy in a sample of matter, the more vigorous the motion of its atoms and molecules. If we increase the amount of thermal energy in a sample of matter, either the temperature of the substance increases, or the substance melts or evaporates with no change in temperature. If we decrease the amount of thermal energy, either the temperature of the substance decreases, or the substance condenses or freezes with no change in temperature. We can detect a change in the amount of thermal energy in a substance by observing a temperature change or a phase change (melting, freezing, evaporation, and so on).</para><note id="eip-198" class="astronomy-basics"><title>Astronomy Basics</title><para id="eip-id1165731023370"><title>Carbon Neutrons</title>An atom is so small that its size is difficult to imagine. One of the smallest things we can see with our unaided eye is a single thread of a spider web: these threads are about 0.0001 centimeter (1/25,000 inch) in diameter. The carbon atoms in a spider web are much smaller, with a diameter of about 0.000000015 centimeter. It
+would take about 7000 carbon atoms to make a line the same length as the diameter of a single thread of a
+spider web. If we take a pair of scissors and cut one such thread into two pieces, the flat end of each piece
+would be so small that most of us would have trouble seeing the thread “end on”. If each carbon atom in a cut
+thread suddenly expanded to the size of a dime, the flat end of a cut thread would expand so the end was a
+little larger than a football field. Imagine the number of dimes it would take to cover a football field. It takes that
+many atoms to cover the cut end of the thread of a spider web.</para>
+
+<para id="eip-id1165719565849">An atom is so small that its size is difficult to imagine. One of the smallest things we can see with our unaided
+eye is a single thread of a spider web: these threads are about 0.0001 centimeter (1/25,000 inch) in diameter.
+The carbon atoms in a spider web are much smaller, with a diameter of about 0.000000015 centimeter.</para></note>
+
+<para id="fs-id1165731351628">Heat is energy that is transferred between two bodies that are at different temperatures. Transfer of heat increases the thermal energy of one body and decreases the thermal energy of the other. Heat will move spontaneously from a warmer substance to a colder substance until the temperatures of the two substances are equal. Chemical reactions and physical changes can release or absorb heat. A change that releases heat is called an exothermic process. The burning of charcoal, for example, is an exothermic process. A reaction or change that absorbs heat is an endothermic process. The boiling of water is an endothermic process, because heat is absorbed when water boils.</para>
+
+<para id="fs-id1165722076185">In the absence of a phase change, we can increase the temperature of an object by adding heat, or some other form of energy, to it <link target-id="eip-id1165715307727" document="m12203"/>. Removing heat, or some other form of energy, reduces the temperature. For example, when hot coffee is poured into a mug, the coffee becomes cooler and the mug warmer as heat moves from the hot coffee into the cooler mug <link target-id="eip-id1165715307727" document="m12203"/>.</para><example id="eip-441"><title>Nesting Testing Example</title><para id="eip-id1172503936669">This Example is for nesting testing. There are figures, images, and tables in it. There are also index term tags: <term>astronomy</term>.
+
+<figure id="eip-id1172503122973"><title>Astronomy is Old</title><media id="eip-id1172499282132" alt="image"><image mime-type="mime/jpeg" src="../../media/astronomy-9b3b.jpg" width="500"/></media>
+<caption>People have been making star maps for EVER.</caption></figure></para>
+<para id="eip-id1172501906830">There are also photographs of stars and stuff.<newline/>
+<media id="eip-id1172502660398" alt="image"><image mime-type="mime/jpeg" src="../../media/astronomy2-d1d8.jpg" width="400"/></media></para><table id="eip-883" summary=".">
+<tgroup cols="3"><tbody>
+  <row>
+    <entry>(1,1)</entry>
+    <entry>(1,2)</entry>
+    <entry>(1,3)</entry>
+  </row>
+  <row>
+    <entry>(2,1)</entry>
+    <entry>(2,2)</entry>
+    <entry>(2,3)</entry>
+  </row>
+  <row>
+    <entry>(3,1)</entry>
+    <entry>(3,2)</entry>
+    <entry>(3,3)</entry>
+  </row>
+</tbody>
+
+</tgroup><caption>It has a caption.</caption>
+</table><para id="eip-511">Some inline mathML: <m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>+</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>
+</para><para id="eip-801">Some display mathML: <equation id="eip-id1172503070709"><m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>+</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></equation> Here is a footnote.<footnote id="eip-id1172501792482">Footnotes should work in examples.</footnote> Here is a <link url="http://openstaxcollege.org">non-shortlinked external URL</link>. Here is a link to a figure: <link target-id="eip-id1172503122973"/>. Here is a link to another feature: <link target-id="eip-198"/>. And a link to another Example in another module: <link document="m12202" target-id="eip-625"/>.</para><list id="eip-id1172504001995"><item>Here is a list with bullets.</item>
+<item>etc.</item></list><list id="eip-312" list-type="enumerated" number-style="arabic"><item>Here is a list with numbers.</item>
+<item>etc.</item></list><list id="eip-232" list-type="enumerated" number-style="lower-alpha"><item>Here is a list with letters.</item>
+<item>etc.</item></list>
+<para id="eip-id1172501501693"><title>Solution</title>This is the solution.</para><para id="eip-603"><title>Check Your Learning</title><figure id="eip-id1172502997224"><title>Astronomy is Still Old in Check Your Learning</title><media id="thisone" alt="image"><image mime-type="mime/jpeg" src="../../media/astronomy-9b3b.jpg" width="500"/></media>
+<caption>This figure is inside Check Your Learning.</caption></figure></para>
+<para id="eip-id1172503089274">This image is in a Check Your learning.<newline/>
+<media id="eip-id1172503081138" alt="image"><image mime-type="mime/jpeg" src="../../media/astronomy2-d1d8.jpg" width="400"/></media></para><table id="eip-id1172502622626" summary="."><title>Check Your Learning Table</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry>(1,1)</entry>
+    <entry>(1,2)</entry>
+    <entry>(1,3)</entry>
+  </row>
+  <row>
+    <entry>(2,1)</entry>
+    <entry>(2,2)</entry>
+    <entry>(2,3)</entry>
+  </row>
+  <row>
+    <entry>(3,1)</entry>
+    <entry>(3,2)</entry>
+    <entry>(3,3)</entry>
+  </row>
+</tbody>
+</tgroup><caption>It has a caption.</caption>
+</table><para id="eip-id1172502951338">Some inline mathML: <m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>+</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>
+</para><para id="eip-id1172502866028">Some display mathML: <equation id="eip-id1172503115717"><m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mtext>reaction</m:mtext></m:msub><m:mo>+</m:mo><m:msub><m:mi>q</m:mi><m:mtext>solution</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></equation>
+<list id="eip-id1172502854968"><item>Here is a list with bullets.</item>
+<item>etc.</item></list><list id="eip-id1172502949699" list-type="enumerated" number-style="arabic"><item>Here is a list with numbers.</item>
+<item>etc.</item></list><list id="eip-id1172502639959" list-type="enumerated" number-style="lower-alpha"><item>Here is a list with letters.</item>
+<item>etc.</item></list><note id="eip-id1172500372051"><label/><title>Answer</title><para id="eip-id1172502014171">this is the answer</para></note></para>
+</example><section id="eip-895" class="summary"><title>Summary</title><para id="eip-24">
+The core threats to biodiversity are human population growth and unsustainable resource use. To date, the most significant
+causes of extinctions are habitat loss, introduction of exotic species, and overharvesting. Climate change is
+predicted to be a significant cause of extinctions in the coming century.
+</para>
+<para id="eip-id1165708481167">Habitat loss occurs through deforestation, damming of rivers, and other activities. Habitat loss occurs through deforestation,
+damming of rivers, and other activities other activities. Habitat loss occurs through deforestation, damming
+of rivers, and other activities other activities.</para></section>
+<section id="fs-id1165715411061" class="further-exploration"> <title>For Further Exploration</title><para id="fs-id1165709806055">Scharf, C. The Copernicus Complex: Our Cosmic Significance in a Universe of Planets and Probabilities, 2014, Scientific American / Farrar, Straus and Giroux. Fascinating book that explores the history of the Copernican Revolution and the implications of Copernican philosophy for present-day Astronomy.</para><para id="eip-779">Staal, J. The New Patterns in the Sky: Myths and Legends of the Stars, 1988, Mcdonald &amp; Woodward Publishing Co. A comprehensive guide to the mythology of the 88 constellations in our sky.</para></section>
+<section id="eip-8" class="group-activities"><title>Collaborative Group Activities</title><section id="eip-id1171963625538"><para id="eip-id1165731286703">Classify each of the following homogeneous materials as an element or a compound:
+<list id="eip-id1165712261405" list-type="enumerated" number-style="upper-alpha"><item>copper</item>
+<item>water</item>
+<item>nitrogen</item>
+<item>sulfur</item>
+<item>sucrose</item>
+<item>a substance composed of molecules each of which contains two iodine atoms</item>
+</list></para>
+</section></section><section id="eip-790" class="review-questions"><title>Review Questions</title><exercise id="eip-id1165707343489"><problem id="eip-id1165715471829"><para id="eip-500">
+Classify each of the following homogeneous materials as an element or a compound:
+<list id="eip-id1165708438057" list-type="enumerated" number-style="upper-alpha"><item>copper</item>
+<item>water</item>
+<item>nitrogen</item>
+<item>sulfur</item>
+<item>sucrose</item>
+<item>a substance composed of molecules each of which contains two iodine atom</item>
+</list>
+</para></problem><solution id="eip-id1172502598428"><para id="eip-id1172503012366">
+<list id="eip-id1172502858582" list-type="enumerated" number-style="upper-alpha"><item>elemental</item>
+<item>homogeneous</item>
+<item>elemental</item>
+<item>elemental</item>
+<item>homogeneous</item>
+<item>heterogenous</item>
+</list>
+</para></solution></exercise></section>
+
+<section id="eip-84" class="thought-questions"><title>Thought Questions</title><exercise id="eip-id1165708384059"><problem id="eip-id1165715278341"><para id="eip-id1165708423008">
+Why do we use an object’s mass, rather than its weight, to indicate the amount of matter it contains?
+</para></problem></exercise></section>
+
+<section id="eip-318" class="figuring-for-yourself"><title>Figuring for Yourself</title><exercise id="eip-id1165731373774"><problem id="eip-id1165712208761">
+<para id="eip-292">
+Explain the difference between heat _______ and specific heat of a substance.
+</para></problem><solution id="eip-id1165707622587"><para id="eip-id1165709613734">transfer</para></solution></exercise></section></content>
+<glossary>
+	<definition id="fs-id1165732301906">
+		<term>Thermal energy</term>
+		<meaning id="fs-id1165732384667"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>x</m:mi></m:mrow></m:math> example of definition with MathML</meaning>
+	</definition>
+	<definition id="fs-id1165717505370">
+		<term>heat</term>
+		<meaning id="fs-id1165732341428">energy that is transferred between two bodies that are at different temperatures.</meaning>
+	</definition>
+	<definition id="fs-id1165715389138">
+		<term>exothermic process</term>
+		<meaning id="fs-id1165732268536">Example of definition with  superscripts<sup>235</sup></meaning>
+	</definition>
+	<definition id="fs-id1165720988728">
+		<term>endothermic process</term>
+		<meaning id="fs-id1165715156925">This definition has subscripts<sub>2</sub>O</meaning>
+	</definition>
+	<definition id="fs-id1165717562218">
+		<term>Thermal energy</term>
+		<meaning id="fs-id1165721064510">This definition has special characters åß¬˚ß∂ª£¶∞π, punctuation ()..,"~;</meaning>
+	</definition>
+</glossary>
+
+</document>
