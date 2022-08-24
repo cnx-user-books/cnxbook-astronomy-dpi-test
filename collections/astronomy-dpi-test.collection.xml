@@ -1,48 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Preview Course">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11977</md:content-id>
-  <md:title>Astronomy DPI test</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>2773b4ad-cc96-4a33-9c51-062de1f3c3a3</md:uuid>
-<md:slug>astronomy-dpi-test</md:slug>
-</metadata>
-
+    <md:content-id>col11977</md:content-id>
+    <md:title>Astronomy DPI test</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>2773b4ad-cc96-4a33-9c51-062de1f3c3a3</md:uuid>
+    <md:slug>astronomy-dpi-test</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Chapter</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m60412"/>
-        
-      
-    
-    
-      <col:module document="m60413"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Chapter</md:title>
+      <col:content>
+        <col:module document="m60412"/>
+        <col:module document="m60413"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
